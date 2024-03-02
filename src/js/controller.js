@@ -11,3 +11,12 @@ const timeout = function (s) {
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
+const user1 = {
+  username: "thecode",
+  followers: 0
+}
+const user2 = user1;
+user2.followers = 3
+
+console.log(user1);
+console.log(user2);
