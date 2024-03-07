@@ -3,7 +3,7 @@
 64C:\Users\rick\Desktop\FoodLand-1\node_modules\.package-lock.json133537470644290732 0
 67C:\Users\rick\Desktop\FoodLand-1\node_modules\csso\dist\csso.esm.js133537418341098020 0
 74C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\workers\package.json133537418346038009 0
-37C:\Users\rick\Desktop\FoodLand-1\dist133538523082452128 1
+37C:\Users\rick\Desktop\FoodLand-1\dist133539424449514310 1
 76C:\Users\rick\Desktop\FoodLand-1\node_modules\css-what\lib\es\index.d.ts.map133537418338817156 0
 45C:\Users\rick\Desktop\FoodLand-1\package.json133537470643500717 0
 72C:\Users\rick\Desktop\FoodLand-1\node_modules\entities\lib\maps\xml.json133537418338892699 0
@@ -65,7 +65,7 @@
 77C:\Users\rick\Desktop\FoodLand-1\node_modules\caniuse-lite\data\regions\IS.js133537418347396695 0
 54C:\Users\rick\Desktop\FoodLand-1\node_modules\boolbase133537418337158246 1
 97C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\core\test\fixtures\config-extends-not-found133537418345978940 1
-43C:\Users\rick\Desktop\FoodLand-1\index.html133537417962143467 0
+43C:\Users\rick\Desktop\FoodLand-1\index.html133539163962967667 0
 74C:\Users\rick\Desktop\FoodLand-1\node_modules\nth-check\lib\index.d.ts.map133537418338930629 0
 75C:\Users\rick\Desktop\FoodLand-1\node_modules\css-tree\lib\syntax\create.js133537418343850946 0
 86C:\Users\rick\Desktop\FoodLand-1\node_modules\dom-serializer\lib\foreignNames.d.ts.map133537418338438492 0
@@ -201,7 +201,7 @@
 77C:\Users\rick\Desktop\FoodLand-1\node_modules\caniuse-lite\data\regions\PA.js133537418348335067 0
 54C:\Users\rick\Desktop\FoodLand-1\src\sass\_upload.scss133537417962253458 0
 94C:\Users\rick\Desktop\FoodLand-1\node_modules\@swc\helpers\src\_class_private_field_update.mjs133537418346369013 0
-53C:\Users\rick\Desktop\FoodLand-1\src\js\controller.js133538523082241256 0
+53C:\Users\rick\Desktop\FoodLand-1\src\js\controller.js133539435938612593 0
 84C:\Users\rick\Desktop\FoodLand-1\node_modules\source-map\lib\source-map-generator.js133537418338737151 0
 84C:\Users\rick\Desktop\FoodLand-1\node_modules\caniuse-lite\dist\unpacker\features.js133537418346038009 0
 70C:\Users\rick\Desktop\FoodLand-1\node_modules\css-tree\dist\csstree.js133537418344028248 0
@@ -1281,7 +1281,7 @@
 64C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\logger\src133537418347114535 1
 115C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\mix.js133537418341747993 0
 66C:\Users\rick\Desktop\FoodLand-1\node_modules\stable\stable.min.js133537418337588102 0
-64C:\Users\rick\Desktop\FoodLand-1\dist\FoodLand-1.3464ddca.js.map133538448087188918 0
+64C:\Users\rick\Desktop\FoodLand-1\dist\FoodLand-1.3464ddca.js.map133539420466761332 0
 69C:\Users\rick\Desktop\FoodLand-1\node_modules\csso\cjs\replace\atrule133537418339818559 1
 68C:\Users\rick\Desktop\FoodLand-1\node_modules\svgo\lib\svgo\tools.js133537418339818559 0
 94C:\Users\rick\Desktop\FoodLand-1\node_modules\entities\lib\generated\decode-data-html.d.ts.map133537418339050630 0
@@ -4715,7 +4715,7 @@
 75C:\Users\rick\Desktop\FoodLand-1\node_modules\@swc\helpers\esm\_decorate.js133537418343481044 0
 113C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js133537418351305560 0
 75C:\Users\rick\Desktop\FoodLand-1\node_modules\@swc\helpers\esm\_defaults.js133537418343499578 0
-60C:\Users\rick\Desktop\FoodLand-1\dist\index.f7626f62.css.map133538448087438920 0
+60C:\Users\rick\Desktop\FoodLand-1\dist\index.f7626f62.css.map133539420466761332 0
 82C:\Users\rick\Desktop\FoodLand-1\node_modules\@swc\helpers\esm\_define_property.js133537418343529585 0
 83C:\Users\rick\Desktop\FoodLand-1\node_modules\@swc\helpers\esm\_get_prototype_of.js133537418343590200 0
 74C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\transformer-sass\src133537470643300751 1
@@ -4979,7 +4979,7 @@
 101C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133537418346884531 0
 77C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\transformer-postcss\lib133537418345017811 1
 81C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\transformer-postcss\LICENSE133537418344940528 0
-59C:\Users\rick\Desktop\FoodLand-1\dist\index.62406edb.js.map133538523082442130 0
+59C:\Users\rick\Desktop\FoodLand-1\dist\index.62406edb.js.map133539424449504310 0
 79C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\fs\test\OverlayFS.test.js133537418343025054 0
 77C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\transformer-postcss\src133537418345027809 1
 127C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133537418338428493 0
@@ -5551,7 +5551,7 @@
 123C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133537418341687991 0
 110C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\jsAPI.d.ts133537418341737993 0
 108C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\jsAPI.js133537418339898710 0
-55C:\Users\rick\Desktop\FoodLand-1\dist\logo.726d37a8.png133538448087073545 0
+55C:\Users\rick\Desktop\FoodLand-1\dist\logo.726d37a8.png133539420466721331 0
 88C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\core\src\serializerCore.browser.js133537418347495915 0
 110C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\plugins.js133537418340217985 0
 111C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist\svgo.browser.js133537418341451496 0
@@ -5905,7 +5905,7 @@
 74C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\cache\lib\FSCache.js133537418347880229 0
 75C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\cache\lib\IDBCache.js133537418347905061 0
 73C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\bundler-default\lib133537418345288125 1
-56C:\Users\rick\Desktop\FoodLand-1\dist\icons.21bad73c.svg133538448087328921 0
+56C:\Users\rick\Desktop\FoodLand-1\dist\icons.21bad73c.svg133539420466691327 0
 73C:\Users\rick\Desktop\FoodLand-1\node_modules\@parcel\bundler-default\src133537418345368125 1
 99C:\Users\rick\Desktop\FoodLand-1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133537418336279842 0
 103C:\Users\rick\Desktop\FoodLand-1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133537418336947978 0
@@ -6007,8 +6007,8 @@
 61C:\Users\rick\Desktop\FoodLand-1\node_modules\.bin\semver.cmd133537418386824160 0
 61C:\Users\rick\Desktop\FoodLand-1\node_modules\.bin\semver.ps1133537418386824160 0
 55C:\Users\rick\Desktop\FoodLand-1\node_modules\.bin\svgo133537418386834179 0
-58C:\Users\rick\Desktop\FoodLand-1\dist\favicon.8b2f57bf.png133538448087093544 0
-60C:\Users\rick\Desktop\FoodLand-1\dist\FoodLand-1.3464ddca.js133538448087148916 0
-48C:\Users\rick\Desktop\FoodLand-1\dist\index.html133538448087258917 0
-56C:\Users\rick\Desktop\FoodLand-1\dist\index.f7626f62.css133538448087418922 0
-55C:\Users\rick\Desktop\FoodLand-1\dist\index.62406edb.js133538523082432126 0
+58C:\Users\rick\Desktop\FoodLand-1\dist\favicon.8b2f57bf.png133539420466671332 0
+48C:\Users\rick\Desktop\FoodLand-1\dist\index.html133539420466711331 0
+60C:\Users\rick\Desktop\FoodLand-1\dist\FoodLand-1.3464ddca.js133539420466721331 0
+56C:\Users\rick\Desktop\FoodLand-1\dist\index.f7626f62.css133539420466721331 0
+55C:\Users\rick\Desktop\FoodLand-1\dist\index.62406edb.js133539424449484310 0
